@@ -1,0 +1,38 @@
+.menu-vertical {
+  height: 100vh;
+  display: flex !important;
+  flex-direction: column !important;
+  padding-top: 25px;
+  position: fixed;
+  width: 270px !important;
+}
+
+.menu__block {
+  margin-left: 13px !important;
+}
+
+.menu__block_bottom {
+  margin-top: auto;
+}
+
+.menu__item {
+  margin-top: 7px !important; 
+}
+
+.menu__header {
+  margin-bottom: 12px !important;
+  cursor: pointer !important;
+}
+
+.menu__icon {
+  float: left !important;
+  margin: 0 13px 0 0 !important;
+}
+
+.menu__icon_right {
+  float: right !important;
+}
+
+.menu__search input {
+  border-radius: 25px !important;
+}

@@ -1,0 +1,17 @@
+.main-header {
+  border-radius: 0 !important;
+  margin-left: 270px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.main-header__item {
+  color: white !important;
+  text-transform: uppercase !important;
+}
+
+.main-header__divider {
+  color: white !important;
+  margin: 0 10px !important;
+  font-weight: bold;
+}
