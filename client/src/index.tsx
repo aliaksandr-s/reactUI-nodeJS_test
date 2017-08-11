@@ -6,6 +6,7 @@ import './index.css'
 import Menu from './components/Menu/Menu'
 import Content from './components/Content/Content'
 import Header from './components/Header/Header'
+export const socket = new WebSocket("ws://localhost:3002")
 
 ReactDOM.render(
   <div>

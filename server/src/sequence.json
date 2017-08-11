@@ -1,0 +1,19 @@
+[
+  {
+    "question": 1,
+    "next": [
+      {
+        "answers": [2],
+        "question": 3
+      }
+    ]
+  }, {
+    "question": 2,
+    "next": [
+      {
+        "answers": [1, 3],
+        "question": 4
+      }
+    ]
+  }
+]
